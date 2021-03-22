@@ -1,7 +1,18 @@
 ---
 layout: default
-title: Perfect Score校園大使/品牌形象代言人
+title: PerfectScore Github Pages
 ---
+
+How to run
+
+`bundle exec jekyll serve`
+
+
+How to add new landing pages
+
+1. Create new markdown file your-page-name.md in the root
+2. Use default layout and change the title to your-page-name
+
 
 PerfectScore Github Pages
 
