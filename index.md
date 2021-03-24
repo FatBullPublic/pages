@@ -11,4 +11,4 @@ PerfectScore Github Pages
 
 [Podcast Guest-En](https://perfectscoredev.github.io/pages/podcast-guest-en)
 
-[Podcast Guest-Ch](https://perfectscoredev.github.io/pages/podcast-guest-en)
+[Podcast Guest-Ch](https://perfectscoredev.github.io/pages/podcast-guest-ch)
