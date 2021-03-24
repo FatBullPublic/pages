@@ -9,4 +9,6 @@ PerfectScore Github Pages
 
 [Student Ambassador](https://perfectscoredev.github.io/pages/student-ambassador)
 
-[Podcast Guest](https://perfectscoredev.github.io/pages/podcast-guest)
+[Podcast Guest-En](https://perfectscoredev.github.io/pages/podcast-guest-en)
+
+[Podcast Guest-Ch](https://perfectscoredev.github.io/pages/podcast-guest-en)
