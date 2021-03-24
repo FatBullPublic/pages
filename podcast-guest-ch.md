@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: podcast
 title: Perfect Score Podcast 特別嘉賓
 ---
 
