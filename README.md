@@ -39,7 +39,7 @@ gem install bundler jekyll
 ```bash
 #If ruby >3.0.0
 
-bandle add webrick
+bundle add webrick
 ```
 
 ```bash
