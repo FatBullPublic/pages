@@ -13,5 +13,3 @@ Fatbull Github Pages
 [Podcast Guest-En]({{ site.base }}/pages/podcast-guest-en)
 
 [Podcast Guest-Ch]({{ site.base }}/pages/podcast-guest-ch)
-
-[Fill Form](https://2bs9m2ujxlo.typeform.com/to/ydFDNHbV){: .btn#page-btn}
