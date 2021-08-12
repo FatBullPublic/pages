@@ -1,69 +1,72 @@
 ---
 layout: default
-title: Perfect Score校園大使/品牌形象代言人
+title: PerfectScore Student Ambassador Program 
 ---
 
-想找實習為大學申請加分嗎？想找打工累積課外實戰經驗嗎？但是不是又嚮往不受時間與空間拘束的企業制度？沒錯！Perfect Score 跳脫傳統企業思維，營造彈性自由的美式遠端環境～這不是死板的實習和工讀，這是一個全新突破的體驗！擔任 Perfect Score 校園大使，你將與來自矽谷與紐約的新創公司零距離互動、與不同領域的校園大使切磋合作，還能跳脫視野與常春藤名校創辦人交流學習！只要你是高中、大學生，個性活潑又外向、喜歡結交朋友，活躍於社交平台，了解社群操作並樂於分享～你就是我們正在找的人！合作結束，將頒發各項獎金及行銷校園大使證明，不只能為升學面試加分，還能累積踏入職場前的行銷經歷！這麼好的機會千萬不能錯過！名額有限！ 快來加入我們的團隊吧！
+Do you want to catch a glimpse at the start-ups in Silicon Valley? Do you want to accumulate extracurricular experiences? Do you want to make your college application even more stand-out? Now, you have an opportunity to join our team as a member of the student ambassador! As long as you are a high school student with a lively and out-going personality, social-loving, great at social media and love sharing. You are the person we’re looking for!! We’ll provide YOU a fully remote working environment while you can incorporate your own ideas and support in the creative environment. At the end of the cooperation, not only can you get the certificate of student ambassador, but also you'll have an opportunity to have an internship! This student ambassador opportunity involves promoting PerfectScore from a current student's perspective at different online events and activities, and you will benefit by developing interpersonal, communication and leadership skills. So make your decision swiftly! The quota is running out! 
 
-## 關於我們：
+For more questions on the program, please read below.
 
-Perfect Score 來自美國矽谷與紐約新創公司旗下品牌，由史丹佛和麻省理工校友共同創辦。此平台運用人工智慧、數據分析及客製化功能，針對考生不同需求，客製化考題，加強弱點題型，高效準備英文檢定及歐美升學考試，如 SAT, GMAT, TOEIC, IELTS, TOEFL...等考試。
+**Please note, the Student Ambassador Program is a volunteer program. Only students who perform well will get an extra bonus, but there is no monetary reward or payment for participating in the program. If you have any further questions, please feel free to email us perfectscorebettereng@gmail.com.**
 
-## 招募對象：
+## About us：
 
-- 任何高中職及大專學在校生。
+PerfectScore is a product which provides you free practice for different types of exams such as TOEIC, SAT and TOEFL. After your completion with the practices, the system will record the answers, the AI system will analyze your weakness, and these features will strengthen users' efficiency in answering questions.
 
-## Perfect Score 行銷校園大使的條件：
+Who can become a student ambassador?
+You can become a student ambassador if you are a current high school student. It does not matter if you are a freshman, sophomore or senior in high school, as long as you are passionate about English or Ivy colleges, and would like to support our student ambassador program.
+The qualities we look for in a Student Ambassador are the following:
+- Willingness to learn
+- Enthusiastic, friendly and approachable
+- Excellent interpersonal communication skills
+- Excellent time management skills
+- Enthusiastic and initiative taking
+- Lively, out-going personality and sociable
+- Ability to work with ambiguity
+- Able to explain the logic behind decisions made during a task
+- Ability to work independently and remotely
+- Active on social media platforms
+- Understand how to operate social media 
+- Have an interest in start-ups
 
-1. 擁有熱忱、積極主動
-2. 願意傾聽與善於溝通
-3. 願意坦承表達自己的想法
-4. 能夠接受未知的任務挑戰
-5. 能夠解釋執行決策的邏輯
-6. 能夠遠端工作、獨立作業
-7. 高效自主管理時間者
-8. 對新創公司頗有興趣者
+## Benefits package:
 
-
-## 加分條件：
-
-1. 善於經營社群平台，IG/FB追蹤數大於500人。
-2. 活躍於社群平台 (可依貼文互動率作為依據)。
-
-## Perfect Score 行銷校園大使的福利：
-
-1. 與他校大使切磋交流
-2. 與新創公司零距離互動
-3. 頒發校園行銷大使證明
-4. 免費使用Perfect Score的產品
-5. 諮詢創辦人國外頂尖大學資訊
-6. 依照KPI制度與貼文成效頒發獎金
-7. 積極經營社群媒體者可獲鼓勵獎金
-8. 競賽制優良大使獎金 / 最佳MVP大使獎金
-9. 推薦適任校園大使的獎金（經PS核准後發放）
-10. 合作期間表現優異者可獲正式實習/兼職/正職的機會
+1. Further develop your interpersonal, leadership and communication skills
+2. Work in a diverse team with other student ambassadors 
+3. Build your portfolio as you move toward a professional marketer future
+4. Get insights into marketing activities
+5. Performance / Referral bonuses
+6. A certificate of recognition by the founder of PerfectScore
+7. A recommendation letter by the founder of PerfectScore
+8. The opportunity to have an internship and join our remote team
 
 
-## 主要執行內容：
 
-1. 擔任Perfect Score校園品牌大使，成為品牌與校園的媒介。
-2. 透過網路平台進行文案推廣，提高Perfect Score的品牌與產品曝光度。
-3. 與他校大使合作，共同製作行銷企劃推廣（主要為網路活動，非實體）。
+## Missions:
 
-## Perfect Score 行銷校園大使的合作時間：
+1. Market peers and school clubs
+2. Represent our brand on your campus
+3. Support the Student Ambassador Program
+4. Support the Marketing Department with diverse tasks
+5. Write promotional posts on different social media platforms
+6. Work with start-up team and other student ambassadors
 
-- 合作時間以兩個月為單位，表現優異可續談實習 / 兼職 / 正職合作。
 
-## 申請Perfect Score 行銷校園大使相關資料：
+## Commitment
 
-- Perfect Score 校園大使申請表
+In order to be able to become a PerfectScore Student Ambassador, students must:  
+- be able to join the program and commit themselves for 3 months. 
+- be reliable and responsible for weekly and daily to-do list
+**Please note that all activities are voluntary, so even if you sign up now and decide later you are not interested or are unavailable, you can always sign out. We do not expect you to do everything, but appreciate what you do.**
 
-  [Fill form](https://2bs9m2ujxlo.typeform.com/to/nwL5PxW6){: .btn#page-btn}
-  <br/>
 
-## \*校園大使獎金競賽制
+## Steps to become a Student Ambassador:  
 
-Perfect Score 行銷校園大使建立於互惠制度，新創企業提供學生全遠端學習的環境，擔任大使期間沒有工作時數限制，執行內容僅包含雙方共同協議之範圍內。校園大使在不受空間、時間和職責下自由發揮，與新創公司一同創意發想，並與不同領域的校園大使互動交流。合作結束將按合約計算KPI與文案成效獎金，並頒發優良/最佳MVP大使獎金（競賽制）。合作期間如有任何疑慮，隨時可向主管單位提出。
-更多資訊請參閱詳情請洽：
+I want to become a student ambassador!! What is next?
 
-[Read](https://www.legis-pedia.com/article/labor-work/780){:, .btn#page-btn}
+1. Fill out the student ambassador application form. https://2bs9m2ujxlo.typeform.com/to/ydFDNHbV 
+2. Successful candidates will receive an admission letter & onboarding form by email around September.
+3. Confirm availability by filling out an onboarding form.
+4. Download the Handbook in the onboarding form.
+5. Follow the Weekly / Daily To - Do List in the handbook.
+6. Get started!
