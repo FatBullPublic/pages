@@ -67,7 +67,9 @@ _*Please note that all activities are voluntary, so even if you sign up now and 
 
 I want to become a student ambassador!! What is next?
 
-1. Fill out the student ambassador application form. [Fill Form](https://2bs9m2ujxlo.typeform.com/to/ydFDNHbV){: .btn#page-btn}
+1. Fill out the student ambassador application form.
+<br>
+[Fill Form](https://2bs9m2ujxlo.typeform.com/to/ydFDNHbV){: .btn#page-btn}
 2. Successful candidates will receive an admission letter & onboarding form by email around September.
 3. Confirm availability by filling out an onboarding form.
 4. Download the **Handbook** in the onboarding form.
