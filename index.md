@@ -2,6 +2,8 @@
 layout: default
 title: PerfectScore Github Pages
 ---
+<h1 style="text-align: center;">Perfect Score 校園大使/品牌形象代言人</h1>
+
 
 PerfectScore Github Pages
 
