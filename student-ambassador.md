@@ -2,22 +2,23 @@
 layout: default
 title: PerfectScore Student Ambassador Program 
 ---
-<h1 style="text-align: center; margin-bottom: 64px; font-weight:bold;">PerfectScore Student Ambassador Program</h1>
+<h1 style="text-align: center; margin-bottom: 64px; font-weight:bold;">FatBull Student Ambassador Program</h1>
 
 
-Do you want to catch a glimpse at the start-ups in Silicon Valley? Do you want to accumulate extracurricular experiences? Do you want to make your college application even more stand-out? Now, you have an opportunity to join our team as a member of the student ambassador! As long as you are a high school student with a lively and out-going personality, social-loving, great at social media and love sharing. You are the person we’re looking for!! We’ll provide YOU a fully remote working environment while you can incorporate your own ideas and support in the creative environment. At the end of the cooperation, not only can you get the certificate of student ambassador, but also you'll have an opportunity to have an internship! This student ambassador opportunity involves promoting PerfectScore from a current student's perspective at different online events and activities, and you will benefit by developing interpersonal, communication and leadership skills. So make your decision swiftly! The quota is running out! 
+Do you want to catch a glimpse at the start-ups in Silicon Valley? Do you want to accumulate extracurricular experiences? Do you want to make your college application even more stand-out? Now, you have an opportunity to join our team as a member of the student ambassador! As long as you are a university student with a lively and out-going personality, social-loving, great at social media and love sharing. YOU are the person we’re looking for!! We’ll provide you a fully remote working environment while you can incorporate your own ideas and support in the creative environment. At the end of the cooperation, not only can you get the certificate of student ambassador, but also you'll have an opportunity to have an internship! This student ambassador opportunity involves promoting FatBull from a current student's perspective at different online events and activities, and you will benefit by developing interpersonal, communication and leadership skills. So make your decision swiftly! The quota is running out! 
 
 For more questions on the program, please read below.
 
-_*Please note, the Student Ambassador Program is a volunteer program. Only students who perform well will get an extra bonus, but there is no monetary reward or payment for participating in the program. If you have any further questions, please feel free to email us [perfectscorebettereng@gmail.com.](mailto:perfectscorebettereng@gmail.com.)*_
+_*Please note, the Student Ambassador Program is a volunteer program. Only students who perform well will get an extra bonus, but there is no monetary reward or payment for participating in the program. If you have any further questions, please feel free to email us. [myfatbull@gmail.com](mailto:myfatbull@gmail.com)*_
 
 ## About us：
 
-PerfectScore is a product which provides you free practice for different types of exams such as TOEIC, SAT and TOEFL. After your completion with the practices, the system will record the answers, the AI system will analyze your weakness, and these features will strengthen users' efficiency in answering questions.
+FatBull is a brand-new investment and wealth management social platform, mainly hoping to provide users with a social platform that focuses on investment and wealth management, and to make investment knowledge more approachable in their daily lives. On this platform, everyone can publish their own investment ideas, and also make personal predictions about stocks and share them with their followers for discussion in the future.
 
 Who can become a student ambassador?
-You can become a student ambassador if you are a current high school student. It does not matter if you are a freshman, sophomore or senior in high school, as long as you are passionate about English or Ivy colleges, and would like to support our student ambassador program.
-The qualities we look for in a Student Ambassador are the following:
+
+You can become a student ambassador if you are a current university student. It does not matter if you are a freshman, sophomore, junior or senior in university, as long as you are interested in investment and financial management, and would like to support our student ambassador program. YOU are the person we’re looking for!!
+
 - Willingness to learn
 - Enthusiastic, friendly and approachable
 - Excellent interpersonal communication skills
