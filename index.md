@@ -14,7 +14,3 @@ PerfectScore Github Pages
 [Podcast Guest-En](https://perfectscorepublic.github.io/pages/podcast-guest-en)
 
 [Podcast Guest-Ch](https://perfectscorepublic.github.io/pages/podcast-guest-ch)
-
-1. Fill out the student ambassador application form.
-<br>
-[Fill Form](https://2bs9m2ujxlo.typeform.com/to/ydFDNHbV){: .btn#page-btn}
