@@ -2,6 +2,7 @@
 layout: faq
 title: Perfect Score 常見問題
 ---
+<h1 style="text-align: center; margin-bottom: 64px; font-weight:bold;">Perfect Score 校園大使/品牌形象代言人</h1>
 
 ## 此產品適用於哪些需求的對象？
 
