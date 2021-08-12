@@ -1,10 +1,10 @@
 ---
 layout: podcast
-title: Perfect Score Podcast 特別嘉賓
+title: Fatbull Podcast 特別嘉賓
 ---
-<h1 style="text-align: center; margin-bottom: 64px; font-weight:bold;">Perfect Score 校園大使/品牌形象代言人</h1>
+<h1 style="text-align: center; margin-bottom: 64px; font-weight:bold;">Fatbull 校園大使/品牌形象代言人</h1>
 
-Perfect Score 留學聊天室特別嘉賓熱烈招募中！想分享自身留學經歷嗎？想讓人聽見你的故事嗎？現在你就有機會成為 Perfect Score Podcast 特別嘉賓呦！只要你是高中生、大學生、名校畢業生或就業於相關產業，有交換學生、留學經驗、打工度假、英文檢定考以及英文教學經驗。個性活潑外向、喜歡結交朋友並樂於分享！沒錯～我們要找的人就是你！透過我們的平台你的故事將被全國看見！！還不快點手刀報名！名額有限呦
+Fatbull 留學聊天室特別嘉賓熱烈招募中！想分享自身留學經歷嗎？想讓人聽見你的故事嗎？現在你就有機會成為 Fatbull Podcast 特別嘉賓呦！只要你是高中生、大學生、名校畢業生或就業於相關產業，有交換學生、留學經驗、打工度假、英文檢定考以及英文教學經驗。個性活潑外向、喜歡結交朋友並樂於分享！沒錯～我們要找的人就是你！透過我們的平台你的故事將被全國看見！！還不快點手刀報名！名額有限呦
 
 <br/>
 
@@ -38,12 +38,12 @@ PerfectScore 是一個提供免費練習考題的線上平台，例如多益、S
   #### 請在影片中回答以下問題：
 
   1. 請簡短自我介紹。
-  2. 為什麼想成為 Perfect Score Podcast 特別嘉賓？
+  2. 為什麼想成為 Fatbull Podcast 特別嘉賓？
   3. 透過我們的平台想分享的相關內容？
      <br />
      <br />
 
-- ### Perfect Score Podcast 特別嘉賓申請表
+- ### Fatbull Podcast 特別嘉賓申請表
 
   [Fill form](https://2bs9m2ujxlo.typeform.com/to/A8yMM139){: .btn#page-btn}
   <br/>

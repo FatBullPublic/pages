@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PerfectScore Student Ambassador Program 
+title: Fatbull Student Ambassador Program 
 ---
 <h1 style="text-align: center; margin-bottom: 64px; font-weight:bold;">FatBull Student Ambassador Program</h1>
 
