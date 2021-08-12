@@ -1,15 +1,15 @@
 ---
 layout: default
-title: PerfectScore Github Pages
+title: Fatbull Github Pages
 ---
 <h1 style="text-align: center; margin-bottom: 64px; font-weight:bold;">Perfect Score 校園大使/品牌形象代言人</h1>
 
-PerfectScore Github Pages
+Fatbull Github Pages
 
-[PerfectScore FAQ](https://perfectscorepublic.github.io/pages/perfectscore-faq)
+[Fatbull FAQ]({{ site.base }}/pages/fatbull-faq)
 
-[Student Ambassador](https://perfectscorepublic.github.io/pages/student-ambassador)
+[Student Ambassador]({{ site.base }}/pages/student-ambassador)
 
-[Podcast Guest-En](https://perfectscorepublic.github.io/pages/podcast-guest-en)
+[Podcast Guest-En]({{ site.base }}/pages/podcast-guest-en)
 
-[Podcast Guest-Ch](https://perfectscorepublic.github.io/pages/podcast-guest-ch)
+[Podcast Guest-Ch]({{ site.base }}/pages/podcast-guest-ch)
