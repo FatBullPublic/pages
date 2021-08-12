@@ -2,7 +2,7 @@
 
 [Student Ambassador](https://perfectscorepublic.github.io/pages/student-ambassador)
 
-[Podcast Guest](https://perfectscorepublic.github.io/pages/podcast-guest)
+[Podcast Guest](https://perfectscorepublic.github.io/pages/podcast-guest-en)
 
 ```bash
 #Install rbenv
