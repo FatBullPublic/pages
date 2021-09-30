@@ -13,3 +13,7 @@ Fatbull Github Pages
 [Podcast Guest-En]({{ site.base }}/pages/podcast-guest-en)
 
 [Podcast Guest-Ch]({{ site.base }}/pages/podcast-guest-ch)
+
+[Privacy Policy]({{ site.base }}/pages/privacy-police)
+
+[Term of Service]({{ site.base }}/pages/term-of-service)
