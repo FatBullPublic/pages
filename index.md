@@ -16,4 +16,4 @@ Fatbull Github Pages
 
 [Privacy Policy]({{ site.base }}/pages/privacy-police)
 
-[Term of Service]({{ site.base }}/pages/term-of-service)
+[Terms of Service]({{ site.base }}/pages/terms-of-service)
