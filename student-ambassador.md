@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Fatbull Student Ambassador Program 
+title: MTX Student Ambassador Program
 ---
-<h1 style="text-align: center; margin-bottom: 64px; font-weight:bold;">FatBull Student Ambassador Program</h1>
 
+<h1 style="text-align: center; margin-bottom: 64px; font-weight:bold;">MTX Student Ambassador Program</h1>
 
-Do you want to catch a glimpse at the start-ups in Silicon Valley? Do you want to accumulate extracurricular experiences? Do you want to make your college application even more stand-out? Now, you have an opportunity to join our team as a member of the student ambassador! As long as you are a university student with a lively and out-going personality, social-loving, great at social media and love sharing. YOU are the person we’re looking for!! We’ll provide you a fully remote working environment while you can incorporate your own ideas and support in the creative environment. At the end of the cooperation, not only can you get the certificate of student ambassador, but also you'll have an opportunity to have an internship! This student ambassador opportunity involves promoting FatBull from a current student's perspective at different online events and activities, and you will benefit by developing interpersonal, communication and leadership skills. So make your decision swiftly! The quota is running out! 
+Do you want to catch a glimpse at the start-ups in Silicon Valley? Do you want to accumulate extracurricular experiences? Do you want to make your college application even more stand-out? Now, you have an opportunity to join our team as a member of the student ambassador! As long as you are a university student with a lively and out-going personality, social-loving, great at social media and love sharing. YOU are the person we’re looking for!! We’ll provide you a fully remote working environment while you can incorporate your own ideas and support in the creative environment. At the end of the cooperation, not only can you get the certificate of student ambassador, but also you'll have an opportunity to have an internship! This student ambassador opportunity involves promoting MTX from a current student's perspective at different online events and activities, and you will benefit by developing interpersonal, communication and leadership skills. So make your decision swiftly! The quota is running out!
 
 For more questions on the program, please read below.
 
@@ -29,21 +29,19 @@ You can become a student ambassador if you are a current university student. It 
 - Able to explain the logic behind decisions made during a task
 - Ability to work independently and remotely
 - Active on social media platforms
-- Understand how to operate social media 
+- Understand how to operate social media
 - Have an interest in start-ups
 
 ## Benefits package:
 
 1. Further develop your interpersonal, leadership and communication skills
-2. Work in a diverse team with other student ambassadors 
+2. Work in a diverse team with other student ambassadors
 3. Build your portfolio as you move toward a professional marketer future
 4. Get insights into marketing activities
 5. Performance / Referral bonuses
 6. A certificate of recognition by the founder of PerfectScore
 7. A recommendation letter by the founder of PerfectScore
 8. The opportunity to have an internship and join our remote team
-
-
 
 ## Missions:
 
@@ -54,24 +52,23 @@ You can become a student ambassador if you are a current university student. It 
 5. Write promotional posts on different social media platforms
 6. Work with start-up team and other student ambassadors
 
-
 ## Commitment
 
-In order to be able to become a PerfectScore Student Ambassador, students must:  
-- be able to join the program and commit themselves for 3 months. 
+In order to be able to become a PerfectScore Student Ambassador, students must:
+
+- be able to join the program and commit themselves for 3 months.
 - be reliable and responsible for weekly and daily to-do list
 
 _*Please note that all activities are voluntary, so even if you sign up now and decide later you are not interested or are unavailable, you can always sign out. We do not expect you to do everything, but appreciate what you do.*_
 
-
-## Steps to become a Student Ambassador:  
+## Steps to become a Student Ambassador:
 
 I want to become a student ambassador!! What is next?
 
 1. Fill out the student ambassador application form.
-<br>
-<br>
-[Fill Form](https://2bs9m2ujxlo.typeform.com/to/ydFDNHbV){: .btn#page-btn}
+   <br>
+   <br>
+   [Fill Form](https://2bs9m2ujxlo.typeform.com/to/ydFDNHbV){: .btn#page-btn}
 2. Successful candidates will receive an admission letter & onboarding form by email around September.
 3. Confirm availability by filling out an onboarding form.
 4. Download the **Handbook** in the onboarding form.

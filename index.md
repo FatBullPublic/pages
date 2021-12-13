@@ -1,12 +1,13 @@
 ---
 layout: default
-title: Fatbull Github Pages
+title: MTX Github Pages
 ---
+
 <h1 style="text-align: center; margin-bottom: 64px; font-weight:bold;">Fatbull 校園大使/品牌形象代言人</h1>
 
-Fatbull Github Pages
+MTX Github Pages
 
-[Fatbull FAQ]({{ site.base }}/pages/fatbull-faq)
+[MTX FAQ]({{ site.base }}/pages/mtx-faq)
 
 [Student Ambassador]({{ site.base }}/pages/student-ambassador)
 

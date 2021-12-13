@@ -1,10 +1,11 @@
 ---
 layout: podcast
-title: Fatbull Podcast Special Guest
+title: MTX Podcast Special Guest
 ---
-<h1 style="text-align: center; margin-bottom: 64px; font-weight:bold;">Fatbull 校園大使/品牌形象代言人</h1>
 
-Fatbull is actively recruiting our podcast’s special guests!! Do you want to share your experience with people? Do you want to let the world listen to your story? Now, you have an opportunity to join our team as a special guest! As long as you are a high school student, college student or fresh graduate who graduates from a famous college or has a related occupation with a lively and out-going personality, social-loving and love sharing. Also have some special experiences such as exchange student, study abroad, work holiday, qualification exams and English teaching. You are the person we’re looking for!! Through our platform your story will be seen around the country~So make your decision swiftly! The quota is running out!
+<h1 style="text-align: center; margin-bottom: 64px; font-weight:bold;">MTX 校園大使/品牌形象代言人</h1>
+
+MTX is actively recruiting our podcast’s special guests!! Do you want to share your experience with people? Do you want to let the world listen to your story? Now, you have an opportunity to join our team as a special guest! As long as you are a high school student, college student or fresh graduate who graduates from a famous college or has a related occupation with a lively and out-going personality, social-loving and love sharing. Also have some special experiences such as exchange student, study abroad, work holiday, qualification exams and English teaching. You are the person we’re looking for!! Through our platform your story will be seen around the country~So make your decision swiftly! The quota is running out!
 
 <br/>
 
@@ -46,7 +47,7 @@ PerfectScore is a product which provides free practices for different types of e
      <br />
      <br />
 
-- ### Fatbull Podcast Special Guest Application
+- ### MTX Podcast Special Guest Application
 
   [Fill form](https://2bs9m2ujxlo.typeform.com/to/O2DwvAEQ){: .btn#page-btn}
   <br/>
